@@ -10,7 +10,7 @@ Each program includes its **source code (.c)**, **compiled executable (.exe)**, 
 ### 🔹 BASICS  
 | Program | Source Code | Output |
 |---------|-------------|--------|
-| Count occurrence of digits in a number | [OccurenceCount.c](./BASICS/OccurenceCount.c) | ![Output](./ARRAYS/OUTPUT/WhatsApp Image 2025-10-16 at 08.27.58.jpeg) |
+| Count occurrence of digits in a number | [OccurenceCount.c](./BASICS/OccurenceCount.c) | ![Output](./ARRAYS/OUTPUT/WhatsApp Image 2025-10-16 at 08.23.23.jpeg) |
 | Reverse an array | [ReverseArray.c](./BASICS/ReverseArray.c) | ![Output](./BASICS/OUTPUTS/ReverseArray.png) |
 | Reverse a number | [ReverseNum.c](./BASICS/ReverseNum.c) | ![Output](./BASICS/OUTPUTS/ReverseNum.png) |
 | Reverse a string | [ReverseString.c](./BASICS/ReverseString.c) | ![Output](./BASICS/OUTPUTS/ReverseString.png) |
